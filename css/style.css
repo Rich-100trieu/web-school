@@ -1,0 +1,10 @@
+
+.orange-footer {
+    background-color: #F4702C;
+    color: white; 
+    padding: 20px; 
+}
+
+nav.container#header {
+    background-color: orange;
+}
